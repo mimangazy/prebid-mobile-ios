@@ -20,6 +20,7 @@
 #import "Log+Extensions.h"
 
 #import "SwiftImport.h"
+#import <CoreLocation/CoreLocation.h>
 
 #pragma mark - Internal Extension
 
